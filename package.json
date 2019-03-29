@@ -1,0 +1,19 @@
+{
+  "name": "testapp",
+  "version": "1.0.0",
+  "description": "homework",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Olha-Vinnikova/testApp.git"
+  },
+  "author": "Olha Vinnikova",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Olha-Vinnikova/testApp/issues"
+  },
+  "homepage": "https://github.com/Olha-Vinnikova/testApp#readme"
+}
